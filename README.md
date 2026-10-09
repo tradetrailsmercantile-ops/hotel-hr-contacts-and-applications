@@ -3,7 +3,7 @@
 ## Finland Job Search
 
 **Search status:** STARTED — authorized by the user on 2026-10-09.  
-**Last initial screening pass:** 2026-10-09.
+**Latest nationwide search expansion:** 2026-10-09.
 
 ### Target country and geography
 - Finland only.
@@ -32,5 +32,6 @@ The project uses **EUR 1,600/month gross** as its conservative screening floor f
 ### Current tracker
 - [job_leads.csv](job_leads.csv) — all screened records, their evidence, status and next action.
 - [verification_policy.md](verification_policy.md) — scope rules, six verification layers and status definitions.
+- [search_log.md](search_log.md) — broad search snapshot, source coverage, priority leads and near-term deadlines.
 
-**Initial screening outcome as of 2026-10-09:** 12 records in the tracker; no lead has yet passed every project check as VERIFIED. REVIEW leads still need key wage/hours/permit facts confirmed. Do not pay anyone to get a job offer or a promised residence permit.
+**Current screening outcome as of 2026-10-09:** 22 individual records in the tracker (16 REVIEW, 6 REJECTED, 0 VERIFIED). Broad market searches show many more indexed vacancies, but many are duplicates, stale, language/experience-ineligible, low-hours or not suitable for a first-time overseas work-permit route. See [search_log.md](search_log.md) for the wider market snapshot and priority leads. Do not pay anyone to get a job offer or a promised residence permit.
