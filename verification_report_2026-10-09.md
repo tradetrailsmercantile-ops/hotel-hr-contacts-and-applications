@@ -14,7 +14,7 @@ A lead is **VERIFIED only if all critical layers pass**: live vacancy, employer 
 
 If any material item remains unconfirmed, the status stays **REVIEW**. Employer inquiry alone never upgrades a lead to VERIFIED.
 
-## Batch verified today
+## Batch verified today — Pass 1
 
 ### FI-20261009-013 — Production workers — Fluiconnecto Oy, Vieremä
 
@@ -97,11 +97,68 @@ If any material item remains unconfirmed, the status stays **REVIEW**. Employer 
 - **FINAL STATUS: REVIEW**.
 - Blocking items: guaranteed hours, employer-side wage confirmation, accommodation terms, overseas hiring and permit route.
 
+## Batch verified today — Pass 2
+
+### FI-20261009-017 — Housekeeper for winter season — Original Sokos Hotel Vaakuna Rovaniemi / Osuuskauppa Arina
+
+- Live vacancy: **PASS**. Osuuskauppa Arina's own careers page currently lists the role; deadline is 2026-10-18.
+- Scope: **PASS**. Hotel housekeeper work is inside Cleaner / Housekeeper.
+- Contract: **PASS**. Fixed-term position ending 2027-03-31, starting as soon as possible.
+- Guaranteed contract hours: **PASS**. The employer states 80 hours per 3 weeks, which is about 26.67 hours/week.
+- Wage: **PARTIAL PASS**. Employer states EUR 12.97–14.33/hour under the hotel, restaurant and leisure-services collective agreement, depending on training/experience. At 80 hours per 3 weeks, this is approximately EUR 1,489–1,644/month gross before variable supplements.
+- Income threshold: **REVIEW / NOT RELIABLY PASSED**. Only the top advertised wage reaches the project's EUR 1,600/month screening floor at the stated contract hours; the lower wage does not.
+- Accommodation: **FAIL TO VERIFY**. The employer explicitly says it does not provide housing/accommodation; the worker must arrange it independently.
+- Experience: not identified as a mandatory prior-experience requirement in the retrieved employer text.
+- Language: the current employer text retrieved for this vacancy does not clearly establish an English-only route; language suitability therefore remains to be confirmed.
+- Overseas hiring / permit paperwork: **REVIEW**. No evidence found that Osuuskauppa Arina will hire a candidate currently in India and support the employer-side information needed for the appropriate residence-permit route.
+- Scam/fee screen: **PASS**. Application is through the employer's own career site; no fee or permit guarantee issue found.
+- **FINAL STATUS: REVIEW**.
+- Blocking items: starting wage at the contracted hours, language requirement, overseas hiring/permit route and lack of employer accommodation.
+
+### FI-20261009-023 — Production workers — Ab Rani Plast Oy, Teerijärvi / Kronoby
+
+- Employer identity: **PASS**. HP Rani Plast's official website provides a live open-application system and identifies its production operations in Finland.
+- Scope/experience fit: **PARTIAL PASS** based on the current third-party vacancy record. The lead describes permanent full-time production work, training provided and no prior experience required.
+- Current specific vacancy: **NOT VERIFIED**. The official Rani Plast site currently exposes an open application rather than an independently confirmed public vacancy matching the exact Jobly/Eezy production-worker listing.
+- Salary: **FAIL TO VERIFY**. No numerical gross base wage independently confirmed from the employer.
+- Guaranteed hours: **PARTIAL PASS** in the third-party record (full-time/12-hour shifts), but not independently confirmed on the employer site.
+- Overseas hiring / permit paperwork: **FAIL TO VERIFY**. No evidence found that Rani Plast will hire a candidate currently in India for this role or handle the employer-side permit information.
+- Scam/fee screen: **PASS so far**. Official employer site and recruitment register are present; no fee/guarantee issue found.
+- **FINAL STATUS: REVIEW**.
+- Blocking items: current specific vacancy confirmation, gross wage, overseas hiring and permit route.
+
+### FI-20261009-004 — Bondata Lapland Housekeeper open application
+
+- Official employer/recruitment presence: **PASS**. Bondata's recruitment portal and company site are identifiable.
+- Vacancy status: **REVIEW**. This is an open application for a seasonal pipeline rather than a named, guaranteed job at a specific client site.
+- Experience fit: **REVIEW**. The listing asks for fluent English and either similar experience or relevant education; the user's no-experience profile therefore needs employer confirmation.
+- Salary/hours: **FAIL TO VERIFY**. Only the applicable collective agreement is stated; numerical wage and guaranteed hours are not stated.
+- Accommodation: **PARTIAL PASS**. Affordable-rent staff accommodation is advertised, but price/availability and the exact client placement are not confirmed.
+- Overseas hiring / permit paperwork: **FAIL TO VERIFY**. No confirmed statement found that Bondata will employ a candidate currently in India and provide the necessary employer-side permit information.
+- **FINAL STATUS: REVIEW**.
+- Blocking items: named vacancy/client, guaranteed hours, gross wage, beginner eligibility and overseas permit route.
+
+### FI-20261009-022 — N-Clean Housekeeper, Katinkulta
+
+- Live vacancy: **PASS**. Current Laura listing shows a 2026-10-16 deadline.
+- Scope: **PASS**. Housekeeping at a resort/hotel site fits Cleaner / Housekeeper.
+- Contract/hours: **FAIL TO VERIFY**. The visible listing only specifies Friday and Saturday morning shifts; no guaranteed weekly minimum is stated.
+- Wage: **FAIL TO VERIFY**. No numerical gross base wage found in the retrieved vacancy evidence.
+- Overseas hiring / permit route: **FAIL TO VERIFY**. No confirmation found that first-time overseas applicants are accepted or that employer-side permit information will be provided.
+- **FINAL STATUS: REVIEW** for now, not rejected solely on the absence of details.
+- Blocking items: guaranteed hours, wage, overseas hiring and permit route.
+
+### FI-20261009-016 follow-up — Tunturin kiinteistöpalvelut
+
+- No new employer contact was sent during Pass 2.
+- Existing inquiry remains **pending**.
+- The role therefore stays **REVIEW**; no inference is made from the fact that an inquiry was already sent.
+
 ## Result
 
 **0 leads upgraded to VERIFIED in this batch.**
 
-The six checked leads remain REVIEW because the missing items are not cosmetic: they directly affect whether a non-EU/EEA applicant currently in India could obtain the correct work-based residence permit and whether the advertised income is reliable.
+The additional checks produced stronger evidence for the Arina housekeeper vacancy and confirmed the official recruitment presence of Rani Plast, but neither lead meets all critical verification layers. In particular, overseas hiring/permit compatibility remains unconfirmed across the new leads, and the Arina wage range does not reliably clear the project's EUR 1,600/month screening floor at the stated 80h/3-week contract.
 
 No email was sent during this verification pass. Existing outreach remains pending and will only be treated as evidence when an employer actually replies and the reply can be matched against the vacancy and legal terms.
 
@@ -110,8 +167,10 @@ No email was sent during this verification pass. Existing outreach remains pendi
 1. Fluiconnecto — deadline 2026-10-11.
 2. Omatalo — deadline 2026-10-11.
 3. Piako — deadline 2026-10-20.
-4. Iisalmi construction helpers — deadline 2026-10-25.
-5. Jyväskylä construction helpers — deadline 2026-11-30.
-6. Tunturin Saariselkä cleaner — deadline 2026-11-01.
+4. Arina / Original Sokos Hotel Vaakuna Rovaniemi — deadline 2026-10-18; verify overseas hiring, language and actual starting wage.
+5. Iisalmi construction helpers — deadline 2026-10-25.
+6. Jyväskylä construction helpers — deadline 2026-11-30.
+7. Tunturin Saariselkä cleaner — deadline 2026-11-01.
+8. Rani Plast — confirm whether the specific production-worker vacancy is genuinely open through an employer-side source before treating it as active.
 
 The next upgrade to VERIFIED requires actual evidence for the blocking fields; it will not be inferred from a job-board listing.
