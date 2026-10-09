@@ -1,15 +1,16 @@
 # Hotel HR Contacts & Applications
 
-## Job Search Project
+## Finland Job Search
 
-This repository is the working repository for the Finland job-search project.
+**Search status:** STARTED — authorized by the user on 2026-10-09.  
+**Last initial screening pass:** 2026-10-09.
 
-### Target Country
-- Finland
-- All regions / states of Finland
+### Target country and geography
+- Finland only.
+- All regions of Finland.
 
-### Locked Search Keywords
-Search only the following job keywords/titles:
+### Locked search categories
+Search only these user-approved categories. Do not add countries, unrelated job titles or new keywords without explicit approval.
 
 1. Cleaner / Housekeeper
 2. General Worker / Labourer
@@ -19,10 +20,17 @@ Search only the following job keywords/titles:
 6. HOUSEPERSON
 7. Construction Cleaner / Labour
 
-### Search Rules
-- Target country: **Finland only**.
-- Target geography: **any region of Finland**.
-- Do not add other countries unless explicitly provided by the user.
-- Do not add other job keywords or titles unless explicitly provided or approved by the user.
-- Do not start job searching until the user explicitly instructs to start the search.
-- When searching starts, record only jobs that match the locked keyword scope and Finland target.
+### Verification first
+Every lead must pass the checks described in [verification_policy.md](verification_policy.md). A vacancy is not marked **VERIFIED** just because it appears on a job board or the employer is a real company.
+
+- **VERIFIED:** vacancy, employer, pay, hours, collective-agreement compliance, permit route and relevant overseas-hiring details confirmed.
+- **REVIEW:** plausible lead but at least one important fact remains unconfirmed.
+- **REJECTED:** closed, outside scope, unsuitable contract/pay/permit terms, or another documented disqualifying issue. This status does not automatically mean the employer is fraudulent.
+
+The project uses **EUR 1,600/month gross** as its conservative screening floor for the standard residence permit for an employed person (TTOL), alongside the applicable collective-agreement wage and guaranteed-hours checks. Permit rules differ by permit route; see the official sources and caveats in the policy.
+
+### Current tracker
+- [job_leads.csv](job_leads.csv) — all screened records, their evidence, status and next action.
+- [verification_policy.md](verification_policy.md) — scope rules, six verification layers and status definitions.
+
+**Initial screening outcome as of 2026-10-09:** 12 records in the tracker; no lead has yet passed every project check as VERIFIED. REVIEW leads still need key wage/hours/permit facts confirmed. Do not pay anyone to get a job offer or a promised residence permit.
