@@ -32,6 +32,7 @@ The project uses **EUR 1,600/month gross** as its conservative screening floor f
 ### Current tracker
 - [job_leads.csv](job_leads.csv) — all screened records, their evidence, status and next action.
 - [verification_policy.md](verification_policy.md) — scope rules, six verification layers and status definitions.
-- [search_log.md](search_log.md) — broad search snapshot, source coverage, priority leads and near-term deadlines.
+- [search_log.md](search_log.md) — broad search snapshot, source coverage, priority leads, outreach results and near-term deadlines.
+- [employer_outreach_log.csv](employer_outreach_log.csv) — written eligibility inquiries, correction messages and reply status.
 
-**Current screening outcome as of 2026-10-09:** 32 individual records in the tracker (23 REVIEW, 9 REJECTED, 0 VERIFIED). Expanded searches across Jobly, Laura / Job Market Finland, Work in Finland and employer career pages show many more indexed vacancies, but many are duplicates, stale, language/experience-ineligible, low-hours or require an existing permit. See [search_log.md](search_log.md) for the wider market snapshot and priority leads. Do not pay anyone to get a job offer or a promised residence permit.
+**Current screening outcome as of 2026-10-09:** 36 individual records in the tracker (27 REVIEW, 9 REJECTED, 0 VERIFIED). Expanded searches across Jobly, Laura / Job Market Finland, Work in Finland and employer career pages show many more indexed vacancies, but many are duplicates, stale, language/experience-ineligible, low-hours or require an existing permit. See [search_log.md](search_log.md) for the wider market snapshot and priority leads. Five employer inquiry threads have been opened; no replies are recorded yet. Do not pay anyone to get a job offer or a promised residence permit.
