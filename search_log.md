@@ -26,9 +26,9 @@ Sources:
 
 ## Current tracker checkpoint
 
-The job_leads.csv tracker currently contains **32 records**:
+The job_leads.csv tracker currently contains **36 records**:
 - **0 VERIFIED**
-- **23 REVIEW**
+- **27 REVIEW**
 - **9 REJECTED**
 
 REVIEW means a potentially relevant advert remains incomplete on one or more key facts. It is not a guarantee that the vacancy is open to an applicant from outside Finland. REJECTED is a project-fit decision and does not necessarily mean fraud.
@@ -45,8 +45,9 @@ REVIEW means a potentially relevant advert remains incomplete on one or more key
 3. **Rekrymesta — earthworks shovel worker, several regions.** Full-time vacancy covering Uusimaa, North Ostrobothnia, Lapland and Kainuu / multiple worksites. Prior earthworks experience is described as an advantage rather than always mandatory, but safety-card requirements, wage and overseas hiring need clarification. Deadline shown as 2026-10-12.
    - Vacancy: https://laura.fi/avoimet-tyopaikat/rekrymesta-henkilostopalvelut-oy/lapiotyontekija-maanrakennusalalle/3876722/
 
-4. **Osuma — production worker for a house-element factory, Kempele.** Full-time schedule with training, wage negotiable and not yet stated in the advert. Deadline shown as 2026-10-13. Confirm client/legal employer and gross pay before prioritising.
-   - Vacancy: https://laura.fi/avoimet-tyopaikat/osuma-henkilostopalvelut-oy/tuotantotyontekija-talotehtaaseen/3893894/
+4. **Osuma — production worker for a house-element factory, Kempele.** Sources conflict: a current-looking Laura result shows a newer listing, while the matching direct Osuma page displays an older deadline of 2026-09-13. The employer has not confirmed a re-post; keep REVIEW and do not rely on the third-party deadline until Osuma confirms it is open.
+   - Laura listing: https://laura.fi/avoimet-tyopaikat/osuma-henkilostopalvelut-oy/tuotantotyontekija-talotehtaaseen/3893894/
+   - Matching Osuma page inspected: https://ohp.fi/positions/tuotantotyontekija-talotehtaaseen-49376364/
 
 5. **Osuuskauppa Arina — winter housekeepers, Original Sokos Hotel Vaakuna Rovaniemi.** Deadline shown as 2026-10-18, about 80 hours per three weeks and €12.97–14.33/hour depending on training/experience. Only the top of the advertised rate range appears to reach the project's €1,600/month screening floor at the stated hours; confirm the actual beginner wage, language requirement and overseas hiring.
    - Employer listing: https://s-ryhma.fi/en/careers/open-jobs?all=true&id=R-38008
@@ -64,7 +65,7 @@ REVIEW means a potentially relevant advert remains incomplete on one or more key
 
 - 2026-10-11: Osuma / Fluiconnecto production workers.
 - 2026-10-12: Rekrymesta earthworks shovel worker.
-- 2026-10-13: Osuma house-element factory production worker.
+- House-element factory role: conflicting source dates; direct Osuma page displays 2026-09-13 as the deadline, while the Laura result looks newer. Get Osuma confirmation before applying.
 - 2026-10-16: N-Clean Katinkulta housekeeper.
 - 2026-10-18: Original Sokos Hotel Vaakuna Rovaniemi housekeepers; RTK-Palvelu industrial-site cleaners in Raahe.
 - 2026-11-01: Tunturin kiinteistöpalvelut seasonal cleaner in Saariselkä.
@@ -116,3 +117,25 @@ This is a materially wider search than the first 12 records, but it is **still n
 The next pass should prioritise direct vacancy pages and official employer careers pages for leads that show an advertised base wage and enough regular hours, then ask the employer the same decisive question in writing: **Will you consider hiring a non-EU/EEA applicant who is currently outside Finland, and will you provide the employer-side information needed for the correct work-based residence-permit application?**
 
 No applications have been submitted and no employer has confirmed overseas hiring in the records unless the CSV explicitly states otherwise.
+
+
+## Third work wave — new leads and source reconciliation (2026-10-09)
+
+Four more roles have been added as FI-20261009-033 through FI-20261009-036:
+
+- **Osuma / assistant construction workers, Jyväskylä:** official Osuma page shows a deadline of 2026-11-30. No prior construction experience is required, but assignments may vary from days to months and guaranteed hours are not shown. https://ohp.fi/positions/rakennusaputyontekijoita-jyvaskylaan-52781041/
+- **Osuma / construction helper workers, Iisalmi / Ylä-Savo:** official page closes 2026-10-25. Prior experience is not required for the assistant-worker stream, but assignments vary from days to months and an occupational-safety card is expected. https://ohp.fi/positions/rakennusalan-tyontekijoita-iisalmeen-45567555/
+- **Osuma / Omatalo wood-element production workers, Sonkajärvi:** official page closes 2026-10-11. Willingness to learn and manual skills matter; relevant training/experience is an advantage. Pay and minimum guaranteed hours are not disclosed. https://ohp.fi/positions/puuelementtityontekijoita-32446390/
+- **Osuma / Piako assembly workers, Pieksämäki:** official page closes 2026-10-20; fixed-term for six months, two shifts, advertised EUR 12–15/hour. Relevant training and/or experience is desired; overseas eligibility and guaranteed hours need confirmation. https://ohp.fi/positions/kokoonpanijoita-50404773/
+
+## Employer outreach log
+
+Five enquiry threads are documented in [employer_outreach_log.csv](employer_outreach_log.csv). Seven messages were sent in total across these threads, including two corrective follow-ups after checking the exact Osuma pages. **No employer reply is recorded yet.**
+
+- **Osuma / Fluiconnecto Oy, Vieremä:** inquiry sent to the published vacancy contact Erno Randelin (erno.randelin@osuma.fi). The official page shows deadline 2026-10-11. The inquiry asks if someone currently in India can be considered for the correct residence-permit route, and asks for written pay/hours, language rules and employer-side paperwork.
+- **Tunturin kiinteistöpalvelut, Saariselkä:** inquiry sent to info@tunturinkiinteistopalvelut.fi. The official page asks for an experienced cleaner and also mentions urgent extra helpers, but does not specify a numerical wage. The EUR 16/hour figure from a secondary listing remains unconfirmed.
+- **Osuma / Omatalo Oy, Sonkajärvi:** inquiry sent to Erno Randelin about vacancy status, beginner eligibility, pay/hours and overseas hiring; the deadline shown by Osuma is 2026-10-11.
+- **Osuma / assistant construction workers, Kuopio and Oulu:** the first inquiry messages were based on current-looking search results, but the matching individual Osuma pages show past deadlines of 2026-09-08 and 2026-10-06 respectively. Corrective follow-up messages were sent to Jani Lindqvist and Tommi Karsikas, explaining the discrepancy and asking about any currently open overseas-eligible helper roles. Do not treat either specific posting as currently open without confirmation.
+- **Osuma / assistant construction workers, Jyväskylä:** the current official page closes 2026-11-30, but assignments may last only days or months; guaranteed hours and monthly salary remain unconfirmed. The recruiter was asked generally about current overseas-eligible helper roles, not about this exact vacancy.
+
+Sending an inquiry is not proof that an employer will hire from abroad. No lead has been marked VERIFIED based on outreach alone.
